@@ -79,4 +79,3 @@ An Arduino-based dustbin that opens its lid automatically when it senses an appr
   <a href="tel:[+91 8623001138"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always happy to connect with fellow ECE / embedded folks!</i></p>
