@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Siddharth Kote 👋</h1>
 <h3 align="center">Electronics & Communication Engineering Graduate | Embedded Systems & IoT Developer</h3>
 
 <p align="center">
@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/[YOUR-USERNAME]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&style=for-the-badge&color=2E9EF7" alt="Profile Views"/>
+  <a href="mailto:[siddharthkote128@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,9 +19,9 @@ I'm an Electronics & Communication Engineering graduate with a strong interest i
 
 ### 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech, Electronics & Communication Engineering | [Your College Name] | [Year] | [CGPA / %] |
+| Degree | Institution | Year |
+|---|---|---|
+| B.Tech, Electronics & Communication Engineering | Nutan College of Engineering and Research | 2026 |
 
 ---
 
@@ -72,23 +69,6 @@ An Arduino-based dustbin that opens its lid automatically when it senses an appr
 - Controlled a **servo motor via PWM** for smooth, reliable lid actuation
 - Designed for hygienic, touch-free waste disposal
 - `Arduino Uno` `HC-SR04` `Servo Motor` `PWM`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=tokyo-night&hide_border=true" width="90%"/>
-</p>
 
 ---
 
