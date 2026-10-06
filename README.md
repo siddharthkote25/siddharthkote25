@@ -151,17 +151,6 @@ I'm an **Electronics & Communication Engineering graduate** focused on **PCB des
 - 🏭 PCB manufacturability and fabrication files
 - 🧪 Hardware debugging and testing
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthkote25&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthkote25&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
 ## 🎯 Open To
 
 **PCB Design Engineer** · **PCB Designer** · **Electronics Hardware Engineer** · **Hardware Design Engineer (Fresher)** · **Graduate Engineer Trainee**
