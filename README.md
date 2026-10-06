@@ -1,13 +1,20 @@
-<h1 align="center">Hi there, I'm Siddharth Kote 👋</h1>
-
-<h3 align="center">Electronics & Communication Engineering Graduate | PCB Design Enthusiast</h3>
-
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=PCB+Design+%7C+KiCad;Schematic+Design+%7C+PCB+Layout;Component+Selection+%7C+ERC+%7C+Routing;Electronics+Hardware+%7C+Embedded+Systems;Open+to+PCB+Design+%26+Hardware+Roles" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2E9EF7&height=220&section=header&text=Siddharth%20Kote&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=PCB%20Design%20%7C%20KiCad%20%7C%20Electronics%20Hardware&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:siddharthkote128@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Schematic+Design+%7C+PCB+Layout+%7C+Routing;ECE+Graduate+%7C+KiCad+Enthusiast;Turning+circuit+ideas+into+manufacturable+PCBs;Open+to+PCB+Design+%26+Hardware+Roles" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-2E9EF7?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="mailto:siddharthkote129@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/siddharthkote25">
@@ -17,190 +24,161 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-I'm an **Electronics & Communication Engineering graduate** focused on **PCB Design and Electronics Hardware Development**.
+I'm an **Electronics & Communication Engineering graduate** focused on **PCB design and electronics hardware development**. I enjoy understanding circuits at the hardware level and turning them into **practical, manufacturable boards**.
 
-I am currently developing hands-on experience with **KiCad 9** and working on complete PCB design workflows, including:
-
-* Schematic capture and circuit design
-* Component selection and symbol/footprint management
-* PCB layout and component placement
-* Routing and trace management
-* Design Rules and Net Classes
-* Electrical Rules Check (ERC)
-* PCB design documentation
-* Git/GitHub based project management
-
-I enjoy understanding circuits at the hardware level and converting circuit ideas into **practical, manufacturable PCB designs**.
-
-🎯 **Currently looking for:** PCB Design Engineer, PCB Designer, Electronics Hardware Engineer, Hardware Engineer Fresher, and Graduate Engineer Trainee opportunities.
+```text
+🔭 Working on   →  KiCad schematic capture, PCB layout & routing
+🌱 Learning     →  Advanced layout techniques, EMI/EMC, power distribution
+🎯 Looking for  →  PCB Design Engineer · Hardware Engineer (Fresher) · GET roles
+📍 Based in     →  Pune, India
+```
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-| Degree                                          | Institution                               | Year |
-| ----------------------------------------------- | ----------------------------------------- | ---- |
-| B.Tech, Electronics & Communication Engineering | Nutan College of Engineering and Research | 2026 |
+**PCB Design**
 
----
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white)
+![Schematic](https://img.shields.io/badge/Schematic%20Capture-0A66C2?style=flat-square)
+![Layout](https://img.shields.io/badge/PCB%20Layout-0A66C2?style=flat-square)
+![Routing](https://img.shields.io/badge/Routing-0A66C2?style=flat-square)
+![Footprints](https://img.shields.io/badge/Footprints%20%26%20Symbols-0A66C2?style=flat-square)
+![DRC](https://img.shields.io/badge/ERC%20%2F%20DRC-0A66C2?style=flat-square)
+![Gerber](https://img.shields.io/badge/Gerber%20Generation-0A66C2?style=flat-square)
 
-## 🛠️ PCB Design & Electronics Skills
+**Electronics & Interfaces**
 
-### 🔧 PCB Design
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ATmega](https://img.shields.io/badge/ATmega328P-00979D?style=flat-square&logo=arduino&logoColor=white)
+![UART](https://img.shields.io/badge/UART-6E40C9?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-6E40C9?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-6E40C9?style=flat-square)
+![GPIO](https://img.shields.io/badge/GPIO%20%2F%20PWM-6E40C9?style=flat-square)
+![Power](https://img.shields.io/badge/Power%20Supply%20Circuits-6E40C9?style=flat-square)
 
-<img src="https://img.shields.io/badge/KiCad_9-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
+**Programming & Tools**
 
-`Schematic Capture` • `PCB Layout` • `Component Placement` • `Routing`
-`Footprints` • `Symbols` • `Net Classes` • `Design Rules`
-`ERC` • `PCB Documentation` • `Gerber Generation`
-
-### ⚡ Electronics
-
-`Basic Circuit Analysis` • `Resistors` • `Capacitors` • `Inductors`
-`Diodes` • `LEDs` • `Voltage Regulators` • `Power Supply Circuits`
-`MCUs` • `Sensors` • `Communication Modules` • `Connectors`
-
-### 🔌 Communication Interfaces
-
-`UART` • `I2C` • `SPI` • `GPIO` • `PWM`
-
-### 💻 Programming
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-### 🧰 Tools
-
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured PCB Projects
+## 🚀 Featured Projects
 
-### 1️⃣ MCU Data Logger — PCB Design
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A microcontroller-based data logging system designed in **KiCad 9**, integrating an MCU with external memory, GPS, cellular communication, and power-management components.
+### 📟 MCU Data Logger
+*ATmega328P data logger with RTC and 2 Mbit EEPROM*
 
-**Hardware:**
+<img src="https://raw.githubusercontent.com/siddharthkote25/MCU-_-DATA_LOGGER/main/3D%20view.png" width="100%" />
 
-* ESP32 Development Board
-* A7670C 4G LTE Module
-* NEO-6M GPS Module
-* HT7333 3.3V Voltage Regulator
-* 24LC1025 EEPROM
-* Resistors, capacitors and connectors
+**Hardware**
+- ATmega328P-AU + 16 MHz crystal
+- DS1337 RTC with 32.768 kHz crystal
+- 2 × 24LC1025 I²C EEPROM (256 KB)
+- I²C, UART, GPIO and ICSP headers
 
-**PCB Design Work:**
+**Work done**
+- Hierarchical schematic in KiCad
+- Footprint management
+- 2-layer PCB layout and routing
+- ERC / DRC and Gerber generation
 
-* Created complete schematic in KiCad
-* Assigned and managed component footprints
-* Created PCB layout
-* Component placement and routing
-* Configured Net Classes
-* Performed ERC checks
-* Organized project files using Git
-* Maintained project on GitHub
+`KiCad` `ATmega328P` `I2C` `EEPROM` `RTC`
 
-`KiCad 9` `PCB Design` `Schematic` `PCB Layout` `ESP32` `GPS` `4G LTE` `EEPROM` `Git`
+🔗 **[View Project](https://github.com/siddharthkote25/MCU-_-DATA_LOGGER)**
 
-🔗 **[View Project on GitHub](https://github.com/siddharthkote25/MCU-_-DATA_LOGGER)**
+</td>
+<td width="50%" valign="top">
+
+### 🚨 SafeSteps
+*Personal safety & emergency response device*
+
+<img src="https://raw.githubusercontent.com/siddharthkote25/SafeSteps/main/3d%20view%20design.png" width="100%" />
+
+**Hardware**
+- ESP32 main controller
+- NEO-6M GPS module
+- A7670C 4G LTE module
+- HT7333 3.3 V regulator
+
+**Work done**
+- Schematic with UART connections
+- Custom footprints and symbols
+- PCB layout, net classes and routing
+- ERC / DRC validation
+
+`KiCad` `ESP32` `GPS` `4G LTE` `UART`
+
+🔗 **[View Project](https://github.com/siddharthkote25/SafeSteps)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 2️⃣ SafeSteps — Electronics Safety Device PCB
+## 🔄 My PCB Design Workflow
 
-A hardware concept for a personal safety system integrating a microcontroller, GPS and cellular communication modules.
+```text
+ Schematic ➜ Symbols & Footprints ➜ ERC ➜ Placement ➜ Net Classes & Rules ➜ Routing ➜ DRC ➜ Gerbers
+```
 
-**Main Hardware:**
+---
 
-* ESP32
-* NEO-6M GPS
-* A7670C 4G LTE Module
-* HT7333 3.3V Regulator
-* Connectors and passive components
+## 🎓 Education & Certification
 
-**PCB Design Work:**
-
-* Designed the circuit schematic in KiCad
-* Integrated multiple hardware modules
-* Worked with UART communication connections
-* Managed power and signal connections
-* Created custom footprints where required
-* Performed ERC and resolved schematic connectivity issues
-* Worked on PCB layout and routing
-
-`KiCad` `PCB Design` `Schematic Capture` `ESP32` `GPS` `4G LTE` `UART`
-
-🔗 **[View Project on GitHub](https://github.com/siddharthkote25/SafeSteps)**
+| | |
+|---|---|
+| 🎓 **B.Tech, Electronics & Communication Engineering** | Nutan College of Engineering and Research · 2026 |
+| 📜 **PCB Design Course** | Simplilearn |
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced PCB Layout Techniques
-* High-quality schematic design practices
-* PCB Design Rules and Constraints
-* Trace width and clearance selection
-* Grounding and power distribution
-* Decoupling and bypass capacitor placement
-* EMI/EMC fundamentals
-* DRC and ERC troubleshooting
-* PCB manufacturability
-* Gerber and fabrication files
-* Hardware debugging and testing
+- ⚡ Grounding and power distribution
+- 🔋 Decoupling and bypass capacitor placement
+- 📏 Trace width and clearance selection
+- 📡 EMI/EMC fundamentals
+- 🏭 PCB manufacturability and fabrication files
+- 🧪 Hardware debugging and testing
 
 ---
 
-## 🏆 Certification
-
-**PCB Design Course — Simplilearn**
-
-Focused on PCB design fundamentals and electronics hardware concepts.
-
----
-
-## 📂 What You'll Find on My GitHub
-
-🔹 KiCad schematic projects
-🔹 PCB layouts
-🔹 Custom symbols and footprints
-🔹 Electronics hardware projects
-🔹 PCB design documentation
-🔹 Circuit design experiments
-🔹 Git/GitHub project workflows
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-* **PCB Design Engineer**
-* **PCB Designer**
-* **Electronics Hardware Engineer**
-* **Hardware Design Engineer — Fresher**
-* **Electronics Engineer — Fresher**
-* **Graduate Engineer Trainee**
-* **Electronics Manufacturing / Testing**
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:siddharthkote128@gmail.com">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthkote25&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthkote25&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🎯 Open To
+
+**PCB Design Engineer** · **PCB Designer** · **Electronics Hardware Engineer** · **Hardware Design Engineer (Fresher)** · **Graduate Engineer Trainee**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:siddharthkote129@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/siddharthkote25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>PCB Design • KiCad • Electronics Hardware • Schematic • PCB Layout</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2E9EF7&height=100&section=footer" width="100%" />
 </p>
