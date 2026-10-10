@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Schematic+Design+%7C+PCB+Layout+%7C+Routing;ECE+Graduate+%7C+KiCad+Enthusiast;Turning+circuit+ideas+into+manufacturable+PCBs;Open+to+PCB+Design+%26+Hardware+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Schematic+Design+%7C+PCB+Layout+%7C+Routing;ECE+Graduate+%7C+KiCad+PCB+Designer;Turning+circuit+ideas+into+manufacturable+PCBs;Open+to+PCB+Design+%26+Hardware+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ I'm an **Electronics & Communication Engineering graduate** focused on **PCB des
 ### 📟 MCU Data Logger
 *ATmega328P data logger with RTC and 2 Mbit EEPROM*
 
-<img src="https://raw.githubusercontent.com/siddharthkote25/MCU-_-DATA_LOGGER/main/3D%20view.png" width="100%" />
+<img src="https://raw.githubusercontent.com/siddharthkote25/MCU-_-DATA_LOGGER/mcu-datalogger-final/3D%20view.png" width="100%" />
 
 **Hardware**
 - ATmega328P-AU + 16 MHz crystal
@@ -99,9 +99,9 @@ I'm an **Electronics & Communication Engineering graduate** focused on **PCB des
 <td width="50%" valign="top">
 
 ### 🚨 SafeSteps
-*Personal safety & emergency response device*
+*Personal safety & emergency response device (final-year project)*
 
-<img src="https://raw.githubusercontent.com/siddharthkote25/SafeSteps/main/3d%20view%20design.png" width="100%" />
+<img src="https://raw.githubusercontent.com/siddharthkote25/SafeSteps/safesteps-final/3d%20view%20design.png" width="100%" />
 
 **Hardware**
 - ESP32 main controller
@@ -133,11 +133,12 @@ I'm an **Electronics & Communication Engineering graduate** focused on **PCB des
 
 ---
 
-## 🎓 Education & Certification
+## 🎓 Education & Certifications
 
 | | |
 |---|---|
 | 🎓 **B.Tech, Electronics & Communication Engineering** | Nutan College of Engineering and Research · 2026 |
+| 📜 **PCB Design with KiCad (Updated for KiCad 9)** | Udemy |
 | 📜 **PCB Design Course** | Simplilearn |
 
 ---
